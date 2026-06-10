@@ -10,16 +10,16 @@ interface Product {
 }
 
 const mockProducts: Product[] = [
-  { id: 1, title: 'Llavors de Blat de Moro Premium', price: 45.50, location: 'Lleida - Segrià', image: 'https://images.unsplash.com/photo-1617450365226-5e0c6b6e8c9a?w=400' },
-  { id: 2, title: 'Tractor Compacte Usat', price: 8500.00, location: 'Girona - Alt Empordà', image: 'https://images.unsplash.com/photo-1530267981375-f0d9572e6a6e?w=400' },
+  { id: 1, title: 'Llavors de Blat de Moro Premium', price: 45.50, location: 'Lleida - Segrià', image: 'src/img/maiz.jpg' },
+  { id: 2, title: 'Tractor Compacte Usat', price: 8500.00, location: 'Girona - Alt Empordà', image: 'src/img/tractor.jpg' },
   { id: 3, title: 'Sistema de Reg Automàtic', price: 320.00, location: 'Tarragona - Baix Camp', image: 'https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=400' },
   { id: 4, title: 'Fertilitzant Orgànic 50kg', price: 28.90, location: 'Barcelona - Bages', image: 'https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=400' },
   { id: 5, title: 'Eines de Jardineria', price: 75.00, location: 'Lleida - Noguera', image: 'https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400' },
   { id: 6, title: 'Llavors de Gira-sol 10kg', price: 35.00, location: 'Girona - Selva', image: 'https://images.unsplash.com/photo-1597305877032-0668b3c6413a?w=400' },
-  { id: 7, title: 'Arada Manual', price: 120.00, location: 'Tarragona - Ribera d\'Ebre', image: 'https://images.unsplash.com/photo-1585314062604-1a357de8b000?w=400' },
+  { id: 7, title: 'Arada Manual', price: 120.00, location: 'Tarragona - Ribera d\'Ebre', image: 'src/img/arada.jpg' },
   { id: 8, title: 'Hivernacle 20m²', price: 890.00, location: 'Barcelona - Maresme', image: 'https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?w=400' },
-  { id: 9, title: 'Adob Compost Natural', price: 22.50, location: 'Lleida - Urgell', image: 'https://images.unsplash.com/photo-1585314062604-1a357de8b000?w=400' },
-  { id: 10, title: 'Motoserra Professional', price: 280.00, location: 'Girona - Ripollès', image: 'https://images.unsplash.com/photo-1626979043657-ef84bea8a7e1?w=400' },
+  { id: 9, title: 'Adob Compost Natural', price: 22.50, location: 'Lleida - Urgell', image: 'src/img/compost.jpg' },
+  { id: 10, title: 'Motoserra Professional', price: 280.00, location: 'Girona - Ripollès', image: 'src/img/motosierra.jpg' },
   { id: 11, title: 'Cistella de Recollida', price: 15.00, location: 'Barcelona - Vallès Occidental', image: 'https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?w=400' },
   { id: 12, title: 'Collita d\'Oliveres', price: 450.00, location: 'Tarragona - Terra Alta', image: 'https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=400' },
 ];
