@@ -10,7 +10,7 @@ interface Product {
 }
 
 const mockProducts: Product[] = [
-  { id: 1, title: 'Llavors de Blat de Moro Premium', price: 45.50, location: 'Lleida - Segrià', image: 'https://images.unsplash.com/photo-1617450365226-5e0c6b6e8c9a?w=400' },
+  { id: 1, title: 'Llavors de Blat de Moro Premium', price: 45.50, location: 'Lleida - Segrià', image: 'src/img/maiz.jpg' },
   { id: 5, title: 'Eines de Jardineria', price: 75.00, location: 'Lleida - Noguera', image: 'https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400' },
 ];
 
